@@ -28,8 +28,9 @@ From the root directory of this repository:
 ```bash
 cd ConVis
 pip3 install . --no-build-isolation
+```
 
-### Execution ###
+### Execution
 
 The following example runs OGBN-Arxiv.
 
@@ -42,3 +43,4 @@ The following example runs OGBN-Arxiv.
 ```markdown
 ## Notes
 This repository is anonymized for double-blind review and contains the core implementation path used in the submitted paper.
+```
