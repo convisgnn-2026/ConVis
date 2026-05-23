@@ -2,6 +2,11 @@
 
 Anonymous research artifact for the submitted ConVis-GNN paper.
 
+```markdown
+## Notes
+This repository is anonymized for double-blind review and contains the core implementation path used in the submitted paper.
+```
+
 ## Introduction ##
 
 ConVis-GNN is built upon MariusGNN ([EuroSys '23](https://dl.acm.org/doi/abs/10.1145/3552326.3567501)).
@@ -40,7 +45,4 @@ The following example runs OGBN-Arxiv.
    - (Default) marius_train examples/configuration/ogbn_arxiv.yaml
    - (ConVis) marius_train examples/configuration/ogbn_arxiv_convis.yaml
 
-```markdown
-## Notes
-This repository is anonymized for double-blind review and contains the core implementation path used in the submitted paper.
-```
+
